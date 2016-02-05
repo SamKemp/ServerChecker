@@ -1,4 +1,4 @@
-package pw.untamemadman.plugins;
+package pw.untamemadman.plugins.bungee.serverchecker;
 
 import java.io.File;
 import java.io.IOException;
