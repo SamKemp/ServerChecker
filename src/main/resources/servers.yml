@@ -1,0 +1,5 @@
+# Blacklist or Whitelist of servers that are checked by ServerChecker. If you want all servers to be checked just ignore this file.
+# The names in the list have to be the same as in the Bungeecord config.yml.
+type: BLACKLIST
+servers:
+- 

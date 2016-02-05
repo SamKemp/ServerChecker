@@ -1,0 +1,4 @@
+# Interval in seconds in which ServerChecker checks if a server is offline or online.
+interval: 5
+online_msg: '&3%server%&7 went &aonline'
+offline_msg: '&3%server%&7 went &coffline'
